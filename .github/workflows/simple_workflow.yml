@@ -17,5 +17,5 @@ jobs:
       with:
         node-version: latest
     - name: Run custom action
-    - uses: pmorphic/udacity-first-greetings-action@main
+      uses: pmorphic/udacity-first-greetings-action@main
 # This is a simple workflow for a python app
